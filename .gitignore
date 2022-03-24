@@ -1,0 +1,9 @@
+.idea/*
+media/*
+template/*
+venv/*
+*__pycache__*
+*.log
+*.sqlite3
+db.json
+
